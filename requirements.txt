@@ -1,0 +1,28 @@
+# Core dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+Pillow>=8.0.0
+
+# Transformer utilities
+einops>=0.4.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Development
+tqdm>=4.62.0
+jupyter>=1.0.0
+wandb>=0.12.0  # Optional for logging
+tensorboard>=2.8.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Data augmentation
+albumentations>=1.1.0
+
+# Configuration
+pyyaml>=6.0
